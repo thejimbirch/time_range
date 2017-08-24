@@ -1,8 +1,9 @@
 {
-  "name": "chris-happy7/time-range",
-  "type": "drupal-module",
-  "description": "Provides a timerange field.",
+  "name": "xenomedia/time_range",
+  "type": "drupal-custom-module",
+  "description": "Provides a timerange field. Forked from Chris-Happy7.",
   "homepage": "https://github.com/Chris-Happy7/d8-time-range/",
+  "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "minimum-stability": "dev"
+  "require": { }
 }
