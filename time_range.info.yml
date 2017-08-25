@@ -1,7 +1,7 @@
 name: 'Time Range'
 type: module
 description: 'Provides the ability to store start and end times.'
-package: Fields
+package: Field types
 core: 8.x
 dependencies:
   - datetime
